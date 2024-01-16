@@ -1,3 +1,7 @@
+
+# video about the project
+https://github.com/anirbanbhunia/live_stock_data/assets/111140438/0d8b48cd-fdf1-4921-8c4d-56ddbd0d5718
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
